@@ -42,24 +42,3 @@ PORT=5000
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 Start the backend server:
-
-bash
-Copy code
-npm run dev
-Frontend Setup
-Navigate to the frontend directory:
-
-bash
-Copy code
-cd ../frontend
-Install frontend dependencies:
-
-bash
-Copy code
-npm install
-Start the frontend server using Vite:
-
-bash
-Copy code
-npm run dev
-The frontend should now be running at http://localhost:3000.
